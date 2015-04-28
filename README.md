@@ -1,0 +1,2 @@
+# MustererkennungExample
+Musterkennung SS2015 Beispielprojekt OPENCV
